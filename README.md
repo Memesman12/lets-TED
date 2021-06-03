@@ -7,4 +7,4 @@ La feature principale di questo progetto deriva dall'utilizzo quotidiano, infatt
 
 -_Basato sull'infrastruttura AWS e i relativi componenti_
 
--_La spiegazione piu dettagliata si puo' trovare [QUI](/Presentazione/)_
+-_La spiegazione piu dettagliata si puo' trovare [QUI](/Presentazione/Let's%20TED.pdf)_
