@@ -1,0 +1,7 @@
+Get_Watch_Next_by_Idx_LF
+
+url: https://iepy0jtud2.execute-api.us-east-1.amazonaws.com/default/Get_Watch_Next_by_Idx
+
+Lets_Tedx_LF
+
+url: https://1k0ee5yalh.execute-api.us-east-1.amazonaws.com/default/Lets_Tedx
